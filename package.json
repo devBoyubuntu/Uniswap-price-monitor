@@ -1,0 +1,17 @@
+{
+  "name": "uniswap-price-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heri Kaniugu",
+  "license": "ISC",
+  "dependencies": {
+    "big.js": "^6.1.1",
+    "dotenv": "^14.2.0",
+    "web3": "^1.7.0"
+  }
+}
